@@ -10,3 +10,6 @@ The marker and category data is fetched from an API endpoint. There's an api fol
 
 Update the endpoint calls to your hosted API and database. Then run the app with the flutters run command or build it and open the index.html in the "build".
 
+## Screenshots
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
