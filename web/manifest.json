@@ -1,0 +1,12 @@
+{
+    "name": "Costa Blanca Guide",
+    "short_name": "Flamencos.eu",
+    "start_url": "/",
+    "display": "browser",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Flamencos.eu directories",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
